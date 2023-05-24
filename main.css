@@ -6,7 +6,8 @@
 }
 
 body {
-  width: 100%;
+  height: 100vh;
+  width: 100vw;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
@@ -14,6 +15,8 @@ body {
 }
 .home{
     background-color: black;
+    height: 100vh;
+    width: 100vw;
 }
 
 header {
@@ -429,8 +432,8 @@ margin-top: 46%;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  width: 80%;
-  margin-left: 190px;
+  width: 90%;
+  margin-left: 90px;
   margin-top: -90px;
   padding: 40px;
   align-content: center;
@@ -473,25 +476,27 @@ color: #FFFFFF;
   /* width: 25px; */
 /* height: 40px; */
 */
-
-.head h3{
+#mee{
   font-family: 'Cormorant Upright';
 font-style: normal;
 font-weight: 600;
 font-size: 64px;
 line-height: 130%;
-margin-top: -13px;
 text-align: center;
 letter-spacing: 0.04em;
 text-transform: capitalize;
 color: #DCCA87;
 
-
 }
+
+
+
+
+
 
 .left1{
   display: flex;
-  /* margin-left: -200px; */
+  margin-left: 80px;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
@@ -557,6 +562,63 @@ span{
   padding-left: 40px;
 }
 
+.right1{
+  display: flex;
+  width: 21%;
+ /* padding: 20px; */
+  /* margin-left: -200px; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.right1 h1{
+  font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 130%;
+text-align: center;
+letter-spacing: 0.04em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #FFFFFF;
+}
+
+/* i have issues with the cocltails */
+.right1 li{
+  font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 110%;
+letter-spacing: 0.03em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #DCCA87;
+}
+
+.right1{
+  font-size: 13px;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 175%;
+letter-spacing: 0.0.5em;
+color: #AAAAAA;
+
+}
+.rew{
+  display: flex;
+  align-items: center;
+  /* align-self: center; */
+  justify-content: center;
+  /* padding: 50px; */
+  margin-left: 46%;
+  margin-top: 40px;
+  width: 9%;
+}
 
 
 
