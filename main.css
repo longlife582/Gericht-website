@@ -408,6 +408,159 @@ height: 44px;
 background: #DCCA87;
 }
 
+.center1{
+width: 50%;
+/* padding: 30px; */
+
+margin-top: 46%;
+}
+
+.center1 img{
+  height: 559px;
+  width: 404px;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+
+.meun{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin-left: 190px;
+  margin-top: -90px;
+  padding: 40px;
+  align-content: center;
+  color: #ffffff;
+}
+
+.meun svg{
+  width: 119px;
+padding: -4px;
+height: 2px;
+/* display: flex; */
+
+}
+
+.section2{
+  background-color: black;
+}
+.head{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+}
+
+.head p{
+  
+font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 130%;
+letter-spacing: 0.04em;
+text-transform: capitalize;
+color: #FFFFFF;
+
+}
+
+/* .head svg{
+  /* width: 25px; */
+/* height: 40px; */
+*/
+
+.head h3{
+  font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 130%;
+margin-top: -13px;
+text-align: center;
+letter-spacing: 0.04em;
+text-transform: capitalize;
+color: #DCCA87;
+
+
+}
+
+.left1{
+  display: flex;
+  /* margin-left: -200px; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  /* width: 80%; */
+  /* width: 40%; */
+  /* margin-top: -90px; */
+}
+
+.left1 h1{
+font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 130%;
+text-align: center;
+letter-spacing: 0.04em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+}
+
+.left1 li{
+  font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 110%;
+letter-spacing: 0.03em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #DCCA87;
+}
+
+.left1 p{
+  font-family: 'Open Sans';
+  margin-left: -14em;
+  margin-top: -4px;
+  padding: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 175%;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #AAAAAA;
+}
+
+.left1 svg{
+  width: 119px;
+height: 1.5px;
+
+}
+span{
+  color: #FFFFFF;
+  margin-top: 50px;
+ 
+}
+
+.me{
+  margin-left: 30px;
+}
+.you{
+  padding-left: 40px;
+}
+
+
+
+
+
 
 
 
