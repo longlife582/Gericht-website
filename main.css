@@ -1438,8 +1438,8 @@ margin-left: 90px;
  
 
   body{
-    max-width: 300vw;
-    width: 269vw;
+    max-width: 400vw;
+    width: 350vw;
     padding: 0;
     margin: 0;
   }
@@ -1451,9 +1451,9 @@ margin-left: 90px;
     display:none
   }
 
-  img{
+  /* img{
     display: none;
-  }
+  } */
 
   .heroscetion svg{
     display: none;
@@ -1487,7 +1487,7 @@ article p{
 }
 
 .firstsection{
-  width: 269vw;
+  width: 350vw;
 
 }
 
@@ -1512,6 +1512,57 @@ article p{
 
 .left button{
   margin-left: 150px;
+}
+
+.going{
+  width: 350vw;
+  
+}
+
+.last1{
+  width: 350vw;
+}
+.right22{
+  margin-left: -80px;
+}
+
+.lastleft{
+  margin-left: 120px;
+}
+.meun{
+  display: none;
+}
+
+.contain{
+  height: auto;
+  width: 350vw;
+}
+
+.video{
+  display: none;
+}
+
+.top1{
+  margin-top: -270px ; 
+}
+
+.inti{
+  margin-top: 50px;
+  width: 60%;
+}
+
+.inti2{
+ /* background-color: aqua; */
+display: flex;
+max-width: 300vw;
+width: 55%;
+}
+.leftimg{
+  display: none;
+}
+
+ .chef p{
+width: 60%;
 }
   }
 
